@@ -1,6 +1,6 @@
 # Mic Switcher
 
-A small Android (Kotlin) app that lists the microphone inputs currently
+A vibecoded small Android (Kotlin) app that lists the microphone inputs currently
 available on the device — built-in mic, wired headset, USB mic, connected
 Bluetooth mic — and lets you pick which one to record from. Recording is
 written as a WAV file so you can verify the switch actually changed the
